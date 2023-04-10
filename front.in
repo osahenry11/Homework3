@@ -1,0 +1,23 @@
+apple+1212020e
+11 21 9
+/* Token codes */
+#define FLOAT_LIT 9
+#define INT_LIT 10
+#define IDENT 11
+#define ASSIGN_OP 20
+#define ADD_OP 21
+#define SUB_OP 22
+#define MULT_OP 23
+#define DIV_OP 24
+#define LEFT_PAREN 25
+#define RIGHT_PAREN 26
+#define MOD_OP 27
+#define COMMA 28
+#define SEMICOLON 29
+#define LEFT_BRACK 30
+#define RIGHT_BRACK 31
+#define DOT 32
+#define LESS_THAN 33
+#define GREATER_THAN 34
+#define LESS_THAN_EQUAL 35
+#define GREATER_THAN_EQUAL 36
